@@ -1,6 +1,6 @@
 //author: Martin Jang
 //this code is written in cpp for the minimalist binary file output
-//didn't use names pace std, don't ask me why
+//didn't use namespace std, don't ask me why
 #include <iostream>
 #include <fstream>
 #include <vector>
