@@ -1,6 +1,6 @@
 //author: Martin Jang
 //this code is written in cpp for the minimalist binary file output
-//*maybe I can try in rust next time* aw
+//didn't use names pace std, don't ask me why
 #include <iostream>
 #include <fstream>
 #include <vector>
